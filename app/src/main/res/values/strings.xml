@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment 6</string>
+    <string name="back_button">Back</string>
+    <string name="clue1">Don\'t Blink.</string>
+    <string name="hint1">Cleveland\'s Weeping Angel.</string>
+    <string name="info1">The Haserot Angel: This angel marks the grave of canning entrepeneur Francis Haserot and his family. The true name of this iconic landmark is \"The Angel of Death Victorious\". This unsettling statue appears to be weeping, which has caused it to also be referred to as \"The Weeping Angel\", and has given rise to the urban legend that anyone who looks it in the eyes will be struck with an incurable disease.</string>
+    <string name="clue2">Oldest shop in town.</string>
+    <string name="info2">West Side Market: West Side Market is Cleveland\'s oldest continually operating market. It has been operating in its current location since November 2, 1912, but has been in operation since 1840. It continues to operate over 100 stands today, offering an exciting and diverse shopping experience.</string>
+    <string name="title">Treasure Hunt!</string>
+    <string name="rules">How to play: After pressing the start button you will be presented with a clue to a location in the real world. Your task is to travel to the location that you think the clue is referencing and then hit the \"Found It!\" button. If you have guessed the location correctly, you can proceed to the next clue. Solve each of the clues within the shortest time.</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+    <string name="found_it">Found It!</string>
+    <string name="cont">Continue</string>
+    <string name="ok">OK</string>
+    <string name="please_try_again">Please try again.</string>
+    <string name="location_incorrect">Location Incorrect</string>
+    <string name="need_a_hint">Need a Hint?</string>
+    <string name="hint">Hint:</string>
+    <string name="clue">Clue:</string>
+    <string name="hint2">The best market West of the Cuyahoga.</string>
+</resources>
